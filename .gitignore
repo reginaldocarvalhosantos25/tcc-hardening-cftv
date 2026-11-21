@@ -1,0 +1,14 @@
+# Backups binários podem conter informações sensíveis do equipamento
+*.backup
+
+# Chaves, segredos e arquivos locais
+*.key
+*.pem
+*.env
+.env
+
+# Arquivos temporários
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
